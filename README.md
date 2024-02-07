@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jackson NSANZIMANA
-- 👀 I’m interested in Developing frontends with html5 and css3
-- 🌱 I’m currently learning HTML AND CSS ON ODIN PLATFORM
+- 👀 I’m interested in Developing Fullstack
+- 🌱 
 - 💞️ I’m looking to collaborate on LinkedIn https://www.linkedin.com/in/nsanzimana-jackson-012723276/
 
 <!---
